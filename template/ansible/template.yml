@@ -1,2 +1,2 @@
-language: ansible-script
+language: ansible
 fprocess: "sh /home/app/project/execute_playbook"
