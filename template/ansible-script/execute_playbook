@@ -1,0 +1,2 @@
+source /definition
+ansible-playbook $playbook -i /home/app/inventory/$inventory
